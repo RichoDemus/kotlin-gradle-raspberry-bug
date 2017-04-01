@@ -1,4 +1,4 @@
-#kotlin-gradle-raspberry-bug
+# kotlin-gradle-raspberry-bug
 
 Reproducing a bug in gradle or kotlin on raspberry pi
 
